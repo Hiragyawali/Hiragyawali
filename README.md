@@ -19,7 +19,7 @@ Hello there! 👋 I'm **hira**, a passionate frontend developer who loves crafti
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiragyawali67&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiragyawali&show_icons=true&theme=radical)
 
 ---
 
